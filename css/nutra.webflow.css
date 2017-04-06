@@ -142,7 +142,7 @@ p {
 }
 .content-wrapper {
   display: inline-block;
-  width: 60%;
+  padding-top: 5%;
 }
 .header-section {
   height: 100%;
