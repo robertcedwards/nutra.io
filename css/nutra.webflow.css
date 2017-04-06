@@ -148,12 +148,12 @@ p {
   height: 100%;
   padding-top: 5%;
   padding-bottom: 30%;
-  background-image: url('../images/2x.png');
-  background-position: 50% 94%;
-  background-size: cover;
-  background-repeat: repeat;
+  background-image: url(../images/2x.png);
+  background-position: 50% 130%;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-attachment: scroll;
-  background-color:99cccc;
+  background-color: #99cccc;
 }
 .footer-section {
   padding-top: 15px;
